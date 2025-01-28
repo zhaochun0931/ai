@@ -1,4 +1,4 @@
 https://ollama.com/download/mac
 
-
+ollama list
 ollama run llama3.2
