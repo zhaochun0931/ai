@@ -2,3 +2,10 @@ https://ollama.com/download/mac
 
 ollama list
 ollama run llama3.2
+
+
+$ ollama list
+NAME                  ID              SIZE      MODIFIED
+deepseek-r1:latest    0a8c26691023    4.7 GB    24 hours ago
+llama3.2:latest       a80c4f17acd5    2.0 GB    2 months ago
+$
